@@ -1,4 +1,5 @@
 #Pollex
+
 Kita diberikan sebuah file, kemudian kami melakukan ekstraksi dengan binwalk
 Command : binwalk --dd='.*' pol
 Hasil :
